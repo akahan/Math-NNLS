@@ -1,0 +1,6 @@
+Revision history for Perl extension Math::NNLS.
+
+0.01  Sat Aug 31 20:31:14 2013
+	- original version; created by h2xs 1.23 with options
+		-A -n Math::NNLS
+
